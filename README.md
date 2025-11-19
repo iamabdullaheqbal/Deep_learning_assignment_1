@@ -116,8 +116,8 @@ pip install uv
 #### Setup Project
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd <repo-directory>
+git clone https://github.com/iamabdullaheqbal/Deep_learning_assignment_1
+cd Deep_learning_assignment_1
 
 # Create virtual environment and install dependencies
 uv sync
